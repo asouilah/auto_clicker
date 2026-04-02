@@ -5,7 +5,7 @@ Features
 
 Left / Middle / Right mouse button support
 Adjustable interval slider with live CPS readout
-Quick-set presets (1/s → 50/s)
+Quick set presets (1/s → 50/s)
 Rebindable global toggle hotkey (default: F6)
 Click counter 
 
